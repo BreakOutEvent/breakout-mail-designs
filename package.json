@@ -1,0 +1,22 @@
+{
+  "name": "breakout-mail-designs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreakOutEvent/breakout-mail-designs.git"
+  },
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/BreakOutEvent/breakout-mail-designs/issues"
+  },
+  "homepage": "https://github.com/BreakOutEvent/breakout-mail-designs#readme",
+  "dependencies": {
+    "mjml": "^1.2.0"
+  }
+}
